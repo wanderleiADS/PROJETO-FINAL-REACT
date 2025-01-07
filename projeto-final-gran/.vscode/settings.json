@@ -1,0 +1,7 @@
+{
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.activityBar.location": "default",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}
